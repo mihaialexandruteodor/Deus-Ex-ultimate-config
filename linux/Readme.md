@@ -14,7 +14,7 @@ Launch the game, let it reach the menu, then quit.
 
 Step 2:
 
-put the Kentie files from this repo one level above (Windows version) in the System folder but first install via protontricks with:
+put the Kentie files from this repo in the System folder but first install via protontricks with:
 
 ```
 protontricks 6910 d3dx10 vcrun2010 dxvk
