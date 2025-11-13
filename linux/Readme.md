@@ -13,7 +13,7 @@ Launch the game, let it reach the menu, then quit.
 
 Step 2:
 
-use the Kentie files deusex.exe and Deusexe.u in the System folder but install via protontricks with:
+use the Kentie files deusex.exe and Deusexe.u in the System folder but first install via protontricks with:
 
 ```
 PROTON_VERSION="Proton Experimental" \
