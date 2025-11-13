@@ -1,4 +1,5 @@
 from [this steam tutorial](https://steamcommunity.com/sharedfiles/filedetails/?id=2967089130)
+and [this answer](https://www.reddit.com/r/linux_gaming/comments/1fleuqw/comment/lo3zod9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 # TL;DR 
 Step 1 – Launch Deus Ex once with Proton
@@ -13,16 +14,17 @@ Launch the game, let it reach the menu, then quit.
 
 Step 2:
 
-use the Kentie files deusex.exe and Deusexe.u in the System folder but first install via protontricks with:
+put the Kentie files  in the System folder but first install via protontricks with:
 
 ```
-PROTON_VERSION="Proton Experimental" \
-WINEPREFIX="$HOME/Documents/steamgames/steamapps/compatdata/6910/pfx" \
-protontricks 6910 d3dcompiler_43
+protontricks 6910 d3dx10 vcrun2010 dxvk
 
 ```
 
 then launch from Steam as non steam game weith compatibility mode proton experimental
+
+---------
+_old, just for reference_
 
 Preliminary Notes
 
