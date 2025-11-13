@@ -1,5 +1,12 @@
 from [this steam tutorial](https://steamcommunity.com/sharedfiles/filedetails/?id=2967089130)
 
+TL;DR use the Kentie files deusex.exe and Deusexe.u in the System folder but install via protontricks with:
+
+```
+protontricks 6910 dx10 d3dcompiler_43
+
+```
+
 Preliminary Notes
 
 Introduction
