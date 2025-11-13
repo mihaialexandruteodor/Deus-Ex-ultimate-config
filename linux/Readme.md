@@ -22,7 +22,7 @@ protontricks 6910 d3dcompiler_43
 
 ```
 
-then launch from Steam
+then launch from Steam as non steam game weith compatibility mode proton experimental
 
 Preliminary Notes
 
