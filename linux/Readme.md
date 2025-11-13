@@ -3,7 +3,7 @@ from [this steam tutorial](https://steamcommunity.com/sharedfiles/filedetails/?i
 TL;DR use the Kentie files deusex.exe and Deusexe.u in the System folder but install via protontricks with:
 
 ```
-protontricks 6910 dx10 d3dcompiler_43
+protontricks --proton "~/.steam/steam/steamapps/common/Proton - Experimental" 6910 dx10 d3dcompiler_43
 
 ```
 
