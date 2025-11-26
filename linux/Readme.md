@@ -23,5 +23,5 @@ protontricks 6910 d3dx10 vcrun2010 dxvk
 
 then launch from Steam as non steam game weith compatibility mode proton experimental
 
-## For me the custom launcher didn't work with direct3d 10 but launching the regular game and checking 'show all rendering options' on popup at first run allowed me to check direct3d 10 rendering 
+## For me the custom launcher didn't work with Direct3D 10, but selecting OpenGL worked
 
